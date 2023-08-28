@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChaoShan.iml" filepath="$PROJECT_DIR$/.idea/modules/ChaoShan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChaoShan.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChaoShan.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChaoShan.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChaoShan.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChaoShan.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChaoShan.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChaoShan.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChaoShan.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pickerview/ChaoShan.pickerview.iml" filepath="$PROJECT_DIR$/.idea/modules/pickerview/ChaoShan.pickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pickerview/ChaoShan.pickerview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pickerview/ChaoShan.pickerview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pickerview/ChaoShan.pickerview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pickerview/ChaoShan.pickerview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pickerview/ChaoShan.pickerview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pickerview/ChaoShan.pickerview.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wheelview/ChaoShan.wheelview.iml" filepath="$PROJECT_DIR$/.idea/modules/wheelview/ChaoShan.wheelview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wheelview/ChaoShan.wheelview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/wheelview/ChaoShan.wheelview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wheelview/ChaoShan.wheelview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wheelview/ChaoShan.wheelview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wheelview/ChaoShan.wheelview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/wheelview/ChaoShan.wheelview.unitTest.iml" />
+    </modules>
+  </component>
+</project>

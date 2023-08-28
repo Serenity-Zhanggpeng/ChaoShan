@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <!--数据库名称-->
+    <dbname value="ChaoShan" />
+
+    <!--数据库版本-->
+    <version value="2" />
+
+    <!--数据库表.对应相应的.实体类.完整的路径-->
+    <list>
+        <mapping class="com.example.chaoshan.bean.User" />
+        <mapping class="com.example.chaoshan.bean.LoginUser" />
+        <mapping class="com.example.chaoshan.bean.Appointment" />
+    </list>
+
+</litepal>

@@ -1,0 +1,2 @@
+include ':app', ':pickerview', ':wheelview'
+rootProject.name='ChaoShan'
